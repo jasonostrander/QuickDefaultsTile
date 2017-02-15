@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QuickDefaultsTile</string>
+    <string name="quick_default_apps">Default Apps</string>
+</resources>
